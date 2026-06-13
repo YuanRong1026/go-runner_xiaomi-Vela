@@ -1,0 +1,10 @@
+# Build outputs
+*.rpk
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
