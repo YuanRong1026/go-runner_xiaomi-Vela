@@ -2,18 +2,26 @@
     "item":{
         "name":"恐龙快跑",
         "description":"一款移植自 Chrome 浏览器离线彩蛋的跑酷游戏。",
-        "preview":["preview0.png","preview1.png","preview2.png","preview3.png","preview4.png"],
+        "preview":["preview.png","preview2.png","preview3.png","preview4.png","preview5.png","preview6.png"],
         "icon":"icon.png",
         "source_url":"https://github.com/YuanRong1026/go-runner_xiaomi-Vela",
         "author":[{
-            "name":"YuanRong1026",
-            "author_url":"https://blog.51733074.xyz"
+            "name":"YuanRongesh",
+            "author_url":"https://www.51733074.xyz"
         }]
     },
     "downloads":{
-        "n66": {
+        "n67": {
         "version":"1.0.5",
         "file_name":"com.dino.runner.debug.1.0.5.rpk"
-    }
+    },
+        "o66":{
+        "version":"1.0.0",
+        "file_name":"com.dino.runner.miband10.release.1.0.0.rpk"
+    },
+        "o66nfc":{
+        "version":"1.0.0",
+        "file_name":"com.dino.runner.miband10.release.1.0.0.rpk"
+     }
   }
 }
